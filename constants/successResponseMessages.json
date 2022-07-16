@@ -1,0 +1,38 @@
+{
+  "4001" : "User created Successfully",
+  "4002" : "Login successfully",
+  "4003" : "Data found successfully",
+  "4004" : "Category is created successfully",
+  "4005" : "Categories list",
+  "4006" : "Post created successfully",
+  "4007" : "Post Updated successfully",
+  "4008" : "Post Lists",
+  "4009" : "Post deleted successfully",
+  "4010" : "Comment created successfully",
+  "4011" : "Comment Lists",
+  "4012" : "Comment Updated successfully",
+  "4013" : "Comment deleted successfully",
+  "4014" : "category deleted successfully",
+  "4015" : "category Updated successfully",
+  "4016" : "No post is created",
+  "4017" : "Post created successfully",
+  
+  
+  "2001" : "email already exist,Please try again",
+  "2002" : "Invalid email or password",
+  "2003" : "User not found",
+  "2004" : "Post not Found",
+  "2005" : "update only your post",
+  "2006" : "Post not found to update",
+  "2007" : "you can update only your post",
+  "2008" : "Post not found to delete",
+  "2009" : "you can delete only your post",
+  "2010" : "No comment found",
+  "2011" : "Comment Not Found to update",
+  "2012" : "you can update only your comment",
+  "2013" : "Comment not found to delete",
+  "2014" : "you can delete only your post",
+  "2015" : "Category Not Found to Delete",
+  "2016" : "No category Found to Update"
+  
+}
